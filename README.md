@@ -11,7 +11,7 @@
 
 ------
 <p align="center">  
-  <img src="https://i.imgur.com/zbdJ5cX.gif" alt="Avatar">
+  <img src="https://media.discordapp.net/attachments/830186261301166080/866860053956132874/image2.gif" alt="Avatar">
 </p>
 <p align="center">
     @឵Flix#0001
