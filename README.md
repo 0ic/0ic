@@ -1,16 +1,39 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/0icr">
+    <img src="https://komarev.com/ghpvc/?username=herluvhr&color=blueviolet"/>
+     </a>
 
-<!--
-**0ic/0ic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://discord.com/users/853061026538586112">
+    <img src="https://discord.c99.nl/widget/theme-2/853061026538586112.png"/>
+     </a>
+</p>
 
-Here are some ideas to get you started:
+------
+<p align="center">  
+  <img src="https://i.imgur.com/zbdJ5cX.gif" alt="Avatar">
+</p>
+<p align="center">
+    @឵Flix#0001
+<p align="center">
+------
+  
+</p>
+<p align="center">
+<a href="https://discord.com/users/852861443128033290">discord</a>
+    ・
+    <a href="https://www.instagram.com/autmrss/">instagram</a>
+    ・
+    <a href="https://github.com/0ic">github</a>
+</p>
+<p align="center">
+------
+<p align="center">  
+<a href="https://discord.gg/photo"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a> <a href="https://discord.gg/image"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a> <a href="https://discord.gg/photo"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a>
+  
+-----------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## status
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=herluvhr&show_icons=true&theme=tokyonight" />
+
+<img align="left" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herluvhr&langs_count=3)](https://github.com/anuraghazra/github-readme-stats" />
